@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrayerTimings</string>
+    <string name="prayer_times_are_set">Prayer times are set</string>
+    <string name="prayer_timings">Prayer Timings</string>
+</resources>
